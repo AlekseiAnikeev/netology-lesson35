@@ -1,4 +1,4 @@
-![Facade](https://cdn0.iconfinder.com/data/icons/leto-blue-project-management/64/__sprint-256.png)
+![Iterable](https://cdn0.iconfinder.com/data/icons/leto-blue-project-management/64/__sprint-256.png)
 
 # Задача Бесконечная итерация
 
